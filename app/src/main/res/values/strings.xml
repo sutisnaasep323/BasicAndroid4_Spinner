@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BasicAndroid4_Spinner</string>
+    
+    <array name="status_sekolah">
+        <item>Status Sekolah</item>
+        <item>Sekolah Dasar</item>
+        <item>Sekolah Menengah Pertama (SMP)</item>
+        <item>Sekolah Menengah Atas (SMA)</item>
+        <item>Mahasiswa</item>
+    </array>
+</resources>
